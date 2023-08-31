@@ -5,10 +5,10 @@ withdrawals.The interface is designed to be user-friendly , offering only the es
 ![Screenshot 2023-08-31 135913](https://github.com/VidinaruAngela/Bankist-App/assets/128092695/99e94614-7080-4608-b8fa-c8bb7e82ffa3)
 
 # Features
-* Ability to Login with a specific username and pin
-* Ability to transfer money to another existent account in the aplication
-* Ability to sort cash transaction in order
-* Ability to deposite money
+* Ability to login with a specific username and pin.
+* Ability to transfer money to another existent account in the aplication.
+* Ability to sort cash transactions in order.
+* Ability to deposite money.
 
 # Testing the App 
 Once you've downloaded the folders you can test the application with these usernames and pins : 
