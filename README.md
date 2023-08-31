@@ -3,6 +3,7 @@ The Bankist App is a minimalist online banking application . It allows users to 
 such as arrays with their specific methods (reduce,filter,map,flatMap,some,every)  numbers,dates,intls and timers.Through this app the account holder can make transfers(lend money to other users),deposits and
 withdrawals.The interface is designed to be user-friendly , offering only the essential features needed for a bank account.
 
+
 ![Screenshot 2023-08-31 135913](https://github.com/VidinaruAngela/Bankist-App/assets/128092695/99e94614-7080-4608-b8fa-c8bb7e82ffa3)
 
 # Features
